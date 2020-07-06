@@ -1,16 +1,12 @@
 - name : Accueil
-  link : /
+  link : /Netflix-jekyll/
 - name : Séries
-  link : /series.html
+  link : /Netflix-jekyll/series.html
 - name : Films
-  link : /films.html
+  link : /Netflix-jekyll/films.html
 - name : Nouveautés
-  link : /nouveautes.html
+  link : /Netflix-jekyll/nouveautes.html
 - name : Ma liste
-  link : /maliste.html
-- language: ruby
-  rvm: - 2.3
-  script: "bundle exec jekyll build"
-  
+  link : /Netflix-jekyll/maliste.html
   
 

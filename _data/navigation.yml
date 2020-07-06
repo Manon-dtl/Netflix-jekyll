@@ -1,0 +1,16 @@
+- name : Accueil
+  link : /
+- name : Séries
+  link : /series.html
+- name : Films
+  link : /films.html
+- name : Nouveautés
+  link : /nouveautes.html
+- name : Ma liste
+  link : /maliste.html
+- language: ruby
+  rvm: - 2.3
+  script: "bundle exec jekyll build"
+  
+  
+
